@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Serialization_and_Deserialization:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Serialization_and_Deserialization</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Serialization_and_Deserialization-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Serialization_and_Deserialization:war exploded" />
+    </root>
+  </artifact>
+</component>
